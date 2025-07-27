@@ -178,6 +178,7 @@ In the video we are showing how the things work like first we need to take the s
 [Add any extra demo materials/links]
 
 ## Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+Nihal M: Done all the things together
+
+Ashik M: Done all the things together
+
